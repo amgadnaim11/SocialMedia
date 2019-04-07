@@ -1,0 +1,15 @@
+
+
+
+
+1- in cmd composer update
+2- change .env-example to .env
+3- create database name 
+4- change DB_DATABASE and password from .env
+5- cmd php artisan key:generate
+6- php artisan migrate
+
+
+
+When download project go to make cmd composer update then go to .env-example to .env and change DB_DATABASE , DB_USERNAME And DB_PASSWORD
+then write in cmd php artisan key:generate  then php artisan migrate 
